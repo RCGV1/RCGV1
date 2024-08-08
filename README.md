@@ -1,23 +1,18 @@
-<h1 align="center">Hi 👋, I'm Benjamin Faershtein</h1>
-<h3 align="center">A young programer interested in learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rcgv1&label=Profile%20views&color=0e75b6&style=flat" alt="rcgv1" /> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/benjamin_faershtein/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benjamin-faershtein-7664242bb) 
 
-- 🔭 I’m currently working on **A discord Bot**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+    ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RCGV1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RCGV1&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RCGV1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🤖 making software for [13190 Roblivion FTC team](https://github.com/13190-2022-23/13190PowerPlay)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RCGV1&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-- 📫 How to reach me **Benjaminfaer@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=RCGV1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rcgv1&" alt="rcgv1" /></p>
